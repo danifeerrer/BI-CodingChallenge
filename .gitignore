@@ -1,1 +1,13 @@
-.vercel
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build or output directories
+build/
+dist/
+out/
+
+# Ignore log files
+*.log
+
+# Ignore environment files (e.g., .env)
+.env
